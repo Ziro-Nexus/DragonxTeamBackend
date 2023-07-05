@@ -3629,23 +3629,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zirox\\.nuget\\packages\\": {},
+    "C:\\Users\\DevDragon\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zirox\\OneDrive\\Escritorio\\projects\\DragonxTeamBackend\\DragonxTeamBackend.csproj",
+      "projectUniqueName": "c:\\Users\\DevDragon\\workspace\\DragonxTeamBackend\\DragonxTeamBackend.csproj",
       "projectName": "DragonxTeamBackend",
-      "projectPath": "C:\\Users\\zirox\\OneDrive\\Escritorio\\projects\\DragonxTeamBackend\\DragonxTeamBackend.csproj",
-      "packagesPath": "C:\\Users\\zirox\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zirox\\OneDrive\\Escritorio\\projects\\DragonxTeamBackend\\obj\\",
+      "projectPath": "c:\\Users\\DevDragon\\workspace\\DragonxTeamBackend\\DragonxTeamBackend.csproj",
+      "packagesPath": "C:\\Users\\DevDragon\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\DevDragon\\workspace\\DragonxTeamBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\zirox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DevDragon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3654,6 +3654,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

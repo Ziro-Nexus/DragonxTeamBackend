@@ -1,5 +1,5 @@
 export const routerConsts = {
-  title: 'Dragon',
+  title: 'Dragon X Team',
   pathEmpty: '',
   full: 'full',
   fullMatch: '**',
